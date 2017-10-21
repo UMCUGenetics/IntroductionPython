@@ -1,6 +1,6 @@
 # Introduction to Python for Life Sciences
 Jupyter notebooks for the MSc introduction to python course.
-A one week course that handles the basics of pyhton with examples from the Life Sciences field.
+A one week course that handles the basics of python with examples from the Life Sciences field.
 
 
 ## Installing Jupyter locally
@@ -12,9 +12,9 @@ http://jupyter.readthedocs.io/en/latest/install.html
 
 ## Working online/in the cloud
 https://cocalc.com/
-1. Download this repositroy [https://github.com/UMCUGenetics/IntroductionPython/archive/master.zip]
+1. Download this repository [https://github.com/UMCUGenetics/IntroductionPython/archive/master.zip]
 2. Register on CoCalc
-3. Upload the data and notebooks (please maintain the appropriate folders
+3. Upload the data and notebooks (please maintain the appropriate folder structure)
 4. Happy coding
 
 # Course schedule
