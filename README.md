@@ -1,5 +1,7 @@
-# Introduction Python
-Jupyter notebooks for the MSc introduction to python course for Life Sciences
+# Introduction to Python for Life Sciences
+Jupyter notebooks for the MSc introduction to python course.
+A one week course that handles the basics of pyhton with examples from the Life Sciences field.
+
 
 ## Installing Jupyter locally
 http://jupyter.readthedocs.io/en/latest/install.html
