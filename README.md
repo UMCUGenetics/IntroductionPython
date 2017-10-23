@@ -2,6 +2,7 @@
 Jupyter notebooks for the MSc introduction to python course.
 A one week course that handles the basics of python with examples from the Life Sciences field.
 
+### NOTE: This a Python 2.7 course
 
 ## Installing Jupyter locally
 http://jupyter.readthedocs.io/en/latest/install.html
