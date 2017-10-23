@@ -28,3 +28,7 @@ P.S. it should look like this: https://cocalc.com/projects/f3d73db0-525d-4395-af
 | 13:00-15:30 | Boolean & Loops | Dictionary | Plotting | Files & Parsing | Exam |
 | 15:30-16:30 | Wrap-up | Wrap-up | Wrap-up | Wrap-up | - | 
 
+## Links to slides
+### Day1
+https://drive.google.com/file/d/0B-Z60zotogd1TkJWUFowUU1WUHM/view?usp=sharing
+https://drive.google.com/file/d/0B-Z60zotogd1UkZUNlJBaFlsZk0/view?usp=sharing
