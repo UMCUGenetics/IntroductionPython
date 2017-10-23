@@ -29,8 +29,6 @@ P.S. it should look like this: https://cocalc.com/projects/f3d73db0-525d-4395-af
 | 15:30-16:30 | Wrap-up | Wrap-up | Wrap-up | Wrap-up | - | 
 
 ## Links to slides
-### Welcome
-https://drive.google.com/file/d/0B-Z60zotogd1UkZUNlJBaFlsZk0/view?usp=sharing
-### Day1
-https://drive.google.com/file/d/0B-Z60zotogd1TkJWUFowUU1WUHM/view?usp=sharing
+* Welcome: https://drive.google.com/file/d/0B-Z60zotogd1UkZUNlJBaFlsZk0/view?usp=sharing
+* Day1: https://drive.google.com/file/d/0B-Z60zotogd1TkJWUFowUU1WUHM/view?usp=sharing
 
