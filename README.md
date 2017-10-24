@@ -18,7 +18,6 @@ https://cocalc.com/
 3. Upload the data and notebooks (please maintain the appropriate folder structure)
 4. Happy coding
 
-P.S. it should look like this: https://cocalc.com/projects/f3d73db0-525d-4395-afb0-96d06af4054f/files/practicals/
 
 # Course schedule
 | Time slot   | Mon 23 | Tue 24 | Wed 25 | Thu 26 | Fri 27 |
