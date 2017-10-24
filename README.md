@@ -4,6 +4,10 @@ A one week course that handles the basics of python with examples from the Life 
 
 ### NOTE: This a Python 2.7 course
 
+## Visualise the execution of your code
+http://pythontutor.com/visualize.html#mode=edit
+
+
 ## Installing Jupyter locally
 http://jupyter.readthedocs.io/en/latest/install.html
 1. Download or clone this repository
