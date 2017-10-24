@@ -41,5 +41,8 @@ https://drive.google.com/open?id=0B-Z60zotogd1eGhCSEI1RWplT2c
 * Day 2 
   * A: https://drive.google.com/file/d/0B-Z60zotogd1emdrcUw2NmV0WVU/view?usp=sharing
   * B: https://drive.google.com/file/d/0B-Z60zotogd1WWFQS3Z6eE5LOWc/view?usp=sharing
+* Day 3
+  * A: https://drive.google.com/open?id=0B-Z60zotogd1UmlJbU1HUDFvVFU
+  * B: https://drive.google.com/open?id=0B-Z60zotogd1MXI5RGRkbDRpbDQ
   
   
