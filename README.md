@@ -44,6 +44,9 @@ https://drive.google.com/open?id=0B-Z60zotogd1eGhCSEI1RWplT2c
 * Day 3
   * A: https://drive.google.com/file/d/0B-Z60zotogd1UmlJbU1HUDFvVFU/view?usp=sharing
   * B: https://drive.google.com/file/d/0B-Z60zotogd1MXI5RGRkbDRpbDQ/view?usp=sharing
-
-  
-  
+* Day 4
+  * A: https://drive.google.com/file/d/0B-Z60zotogd1dUsxMG9abURUOUU/view?usp=sharing
+  * B: https://drive.google.com/file/d/0B-Z60zotogd1MEc3U3BfMV9ad3c/view?usp=sharing
+  * C: https://drive.google.com/file/d/0B-Z60zotogd1M0gyVFdxelFiQlk/view?usp=sharing
+* Day 5
+  * https://drive.google.com/file/d/0B1UNon8v26XscndhX2RXcURqOGs/view?usp=sharing
