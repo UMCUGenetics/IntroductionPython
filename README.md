@@ -7,6 +7,18 @@ A one week course that handles the basics of python with examples from the Life 
 ## Visualise the execution of your code
 http://pythontutor.com/visualize.html#mode=edit
 
+------
+
+### Assignment:
+ * description: https://drive.google.com/file/d/0B1UNon8v26XsbkdwR0ZzbjQ0dUE/view?usp=sharing
+
+### Data for the assignment:
+ * features: https://drive.google.com/file/d/0B-Z60zotogd1Mk4tVEhGTzJ3SzA/view?usp=sharing
+ * sequences: https://drive.google.com/file/d/0B-Z60zotogd1SHdIUGVuRlFPNXc/view?usp=sharing
+
+
+------
+
 
 ## Installing Jupyter locally
 http://jupyter.readthedocs.io/en/latest/install.html
